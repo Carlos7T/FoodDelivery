@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856425224200",
+    "firebase_url": "https://restaurant-ae67f.firebaseio.com",
+    "project_id": "restaurant-ae67f",
+    "storage_bucket": "restaurant-ae67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856425224200:android:7bb55f191a56e0a3d059bd",
+        "android_client_info": {
+          "package_name": "com.restapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856425224200-n6clf65n9jubtue8t9fcc91nipqaug9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3o-MF7r6onEkzyAKSDsVbHCXdaPq4-f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856425224200-n6clf65n9jubtue8t9fcc91nipqaug9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
